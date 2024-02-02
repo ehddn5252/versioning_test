@@ -55,9 +55,9 @@
 git log --pretty=format:"%h - %an, %ar : %s"
 
 
+새로운 기능이 추가된 버전임을 알려드립니다.
 
-
-
+sub_test2.py에서의 예시가 변경되었습니다.
 
 
 
